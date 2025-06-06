@@ -1,4 +1,4 @@
-# 🌐 Server README
+
 ## 📖 Project Overview
 This project allows you to create your own **TCP server** in **C**.
 
